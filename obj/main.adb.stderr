@@ -1,0 +1,2 @@
+main.adb:71:60: warning: potentially unsynchronized barrier [enabled by default]
+main.adb:71:60: warning: "num_tasks" should be private component of type [enabled by default]

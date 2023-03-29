@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\User\source\GNATStudioProjects\lab1.gpr</vfs_project>
+      <vfs_file>D:\User\source\GNATStudioProjects\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
